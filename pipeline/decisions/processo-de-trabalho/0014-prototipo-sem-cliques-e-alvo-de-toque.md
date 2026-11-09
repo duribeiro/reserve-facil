@@ -6,7 +6,7 @@ estado: em-vigor
 links: []
 substitui: []
 substituida_por: []
-relacionadas: [4, 13]
+relacionadas: [4, 13, 15]
 ---
 
 # 14. Protótipo sem cliques e alvo de toque só em itens clicáveis

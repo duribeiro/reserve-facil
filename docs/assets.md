@@ -11,7 +11,9 @@ Fotos e mockups do restaurante fictício Ulivo, na seção **Assets** da página
 - **Nome da camada:** `foto/assunto` ou `mockup/assunto`, minúsculas e sem acento.
 - **Uso nas telas:** a foto entra como preenchimento de um quadro. No topo da tela, funde com o creme. Em bloco verde, funde com o verde.
 
-## Imagens (18)
+## Imagens (22) e textura
+
+Para a versão 2: `foto/sino`, `foto/telefone`, `foto/caderno` e `foto/placas`, sobre verde profundo, e `textura/grao`, a textura aplicada sobre as telas. No modo escuro entram as fotos noturnas.
 
 As 8 mais novas, de dia, são as usadas nas telas: `foto/hero-dia`, `foto/salao-dia`, `foto/bar-dia`, `foto/varanda-dia`, `foto/massa-dia`, `foto/sobremesa-dia`, `foto/vinho-dia` e `foto/fachada-dia`. A tabela abaixo lista as 10 originais, noturnas.
 

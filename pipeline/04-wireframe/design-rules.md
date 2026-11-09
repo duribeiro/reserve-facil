@@ -7,7 +7,7 @@ Valem para o wireframe e a alta fidelidade. A marca está em [padrao-visual.md](
 | Quem | Aparelho | Tamanho |
 |---|---|---|
 | Cliente | celular | 390 x 960 |
-| Atendente | tablet | 1024 x 768 |
+| Atendente | tablet deitado | 1366 x 1024 |
 | Gerente | computador | 1440 x 900 |
 
 ## Wireframe
@@ -31,6 +31,10 @@ Cores medidas nas imagens de referência do café ([decisão 12](../decisions/in
 - **Quadro que contém sombra fica sem recorte.** Só a tela e o quadro arredondado com foto recortam.
 - **Fontes:** Cormorant Garamond para títulos e marca, DM Sans para o resto. Número com o algarismo 1 nunca em Cormorant: o 1 dela parece um I.
 - **Fotos com luz do dia**, fundo claro e cor quente. A foto do topo funde com o creme.
+
+## Versão 2 oficial
+
+Modo claro e modo escuro, com painéis ricos ([decisão 15](../decisions/interface/0015-versao-2-oficial-com-modo-escuro.md)). Foto em cartão some por transparência real. Brilho sempre discreto. Regras completas em [design-system.md](../../docs/design-system.md).
 
 ## Espaçamento (hierarquia, do menor para o maior)
 

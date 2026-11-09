@@ -15,6 +15,9 @@ Limite conhecido: a pesquisa completa do [roteiro](prompt.md) (15 a 24 candidata
 | Sparrow Table | O laranja como ponto de destaque | Laranja em áreas grandes |
 | Luma | Fotos do restaurante aplicadas | Fundo preto |
 | Vision UI | Composição do painel: indicadores, gráfico de área, tabela sem linhas pesadas, item ativo em pílula clara | Fundo preto |
+| Capa do painel azul | Medidores, gráficos preenchidos e foto integrada ao cartão | O azul |
+| Portfólio verde (comunidade Figma) | Telas em 3D, grão, luzes e vários tons dentro do verde | Brilho forte |
+| Pack de artes (comunidade Figma) | Objetos em destaque e título forte nas capas | Cores e personagens |
 
 ## Cores amostradas por script
 

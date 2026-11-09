@@ -6,7 +6,7 @@ estado: em-vigor
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=27-16]
 substitui: []
 substituida_por: []
-relacionadas: [8, 12, 14]
+relacionadas: [8, 12, 14, 15]
 ---
 
 # 13. Alta fidelidade aprovada, destaque verde e campos com ícone

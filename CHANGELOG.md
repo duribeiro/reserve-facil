@@ -14,6 +14,7 @@ Formato [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). Versionamen
 
 - Alta fidelidade em creme e verde, medidos nas referências do café, com espaçamento em múltiplos de 4.
 - README com capa, telas e diagramas.
+- Versão 2 oficial: telas de atendente em tablet deitado, painéis ricos, modo escuro, nova capa e 13 slides.
 
 ## [0.0.1] - 2026-11-08
 

@@ -6,7 +6,7 @@ estado: em-vigor
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=27-16]
 substitui: [11]
 substituida_por: []
-relacionadas: [1, 8, 9, 10, 13]
+relacionadas: [1, 8, 9, 10, 13, 15]
 ---
 
 # 12. Creme e verde medidos na referência do café

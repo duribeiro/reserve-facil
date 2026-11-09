@@ -14,3 +14,4 @@ _Tabela gerada pelo índice. Não editar à mão._
 | [11](0011-tema-escuro-na-alta-fidelidade.md) | Tema escuro na alta fidelidade | substituída | 2026-11-08 |
 | [12](0012-creme-e-verde-medidos-na-referencia-do-cafe.md) | Creme e verde medidos na referência do café | em vigor | 2026-11-08 |
 | [13](0013-alta-fidelidade-aprovada-destaque-verde.md) | Alta fidelidade aprovada, destaque verde e campos com ícone | em vigor | 2026-11-09 |
+| [15](0015-versao-2-oficial-com-modo-escuro.md) | Versão 2 oficial, com painéis ricos e modo escuro | em vigor | 2026-11-09 |

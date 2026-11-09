@@ -76,3 +76,4 @@ _Tabela gerada pelo índice. Não editar à mão._
 | [12](interface/0012-creme-e-verde-medidos-na-referencia-do-cafe.md) | Creme e verde medidos na referência do café | em vigor | [interface](interface/README.md) | 2026-11-08 |
 | [13](interface/0013-alta-fidelidade-aprovada-destaque-verde.md) | Alta fidelidade aprovada, destaque verde e campos com ícone | em vigor | [interface](interface/README.md) | 2026-11-09 |
 | [14](processo-de-trabalho/0014-prototipo-sem-cliques-e-alvo-de-toque.md) | Protótipo sem cliques e alvo de toque só em itens clicáveis | em vigor | [processo-de-trabalho](processo-de-trabalho/README.md) | 2026-11-09 |
+| [15](interface/0015-versao-2-oficial-com-modo-escuro.md) | Versão 2 oficial, com painéis ricos e modo escuro | em vigor | [interface](interface/README.md) | 2026-11-09 |

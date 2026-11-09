@@ -2,7 +2,7 @@
 
 Etapa 4, partes A e B. Lista aprovada pelo dono em 08/11/2026. Desenhos no Figma, página Wireframe: [Wireframe](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=5-26). Escopo: [scope.md](../03-mvp-scope/scope.md). Cada tela tem uma nota amarela no desenho com os erros e estados vazios.
 
-Formatos: cliente em celular (390 de largura; a altura varia porque a tela rola), atendente em tablet (1024 x 900 e 1024 x 1020) e gerente em computador (1440 x 1000 e 1440 x 1120). A tela 17 entrou na alta fidelidade, junto com a aba Perfil.
+Formatos: cliente em celular (390 de largura; a altura varia porque a tela rola), atendente em tablet deitado (1366 x 1024) e gerente em computador (1440 de largura). A tela 17 entrou na alta fidelidade, junto com a aba Perfil.
 
 ## Lista de telas
 

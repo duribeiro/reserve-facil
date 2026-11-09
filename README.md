@@ -16,15 +16,17 @@ Este repositório é um trabalho da faculdade e termina no protótipo de alta fi
 
 | O quê | Link |
 |---|---|
-| Capa | [Abrir](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=98-4378) |
-| Alta fidelidade, 17 telas | [Abrir](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=27-16) |
-| Apresentação, 12 slides | [Abrir](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=95-167) |
+| Capa | [Abrir](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=107-6054) |
+| Alta fidelidade, 17 telas | [Modo claro](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=107-2298) e [modo escuro](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=114-2310) |
+| Apresentação, 13 slides | [Abrir](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=107-5186) |
 | Design system | [Abrir](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2) |
 | Wireframe | [Abrir](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=5-26) |
 
 ## O problema
 
 Restaurantes que recebem pedidos por telefone, mensagem ou no balcão sofrem com reservas duplicadas, informação perdida e dificuldade para alterar ou cancelar. O ReserveFácil reúne tudo num sistema só.
+
+![O problema](docs/img/problema.jpg)
 
 ## As telas
 
@@ -40,6 +42,10 @@ Restaurantes que recebem pedidos por telefone, mensagem ou no balcão sofrem com
 
 ![Telas do gerente](docs/img/telas-gerente.jpg)
 
+## Modo escuro
+
+![Modo claro e modo escuro](docs/img/modo-escuro.jpg)
+
 ## Casos de uso
 
 Diagramas originais do levantamento de requisitos ([texto completo](docs/requisitos-reservefacil.md)).
@@ -50,7 +56,7 @@ Diagramas originais do levantamento de requisitos ([texto completo](docs/requisi
 
 ## Design
 
-Creme e verde, com as cores medidas nas referências do café ([decisão 12](pipeline/decisions/interface/0012-creme-e-verde-medidos-na-referencia-do-cafe.md)). Detalhes em [docs/design-system.md](docs/design-system.md).
+Creme e verde, com as cores medidas nas referências do café ([decisão 12](pipeline/decisions/interface/0012-creme-e-verde-medidos-na-referencia-do-cafe.md)), com modo escuro e painéis ricos ([decisão 15](pipeline/decisions/interface/0015-versao-2-oficial-com-modo-escuro.md)). Detalhes em [docs/design-system.md](docs/design-system.md).
 
 ![Cores do produto](docs/img/cores.jpg)
 
@@ -60,7 +66,7 @@ Creme e verde, com as cores medidas nas referências do café ([decisão 12](pip
 
 ![Primeiro slide da apresentação](docs/img/apresentacao-capa.jpg)
 
-São 12 slides para apresentar o produto, com o roteiro de fala em [apresentacao.md](pipeline/04e-high-fidelity/apresentacao.md).
+São 13 slides para apresentar o produto, com o roteiro de fala em [apresentacao.md](pipeline/04e-high-fidelity/apresentacao.md).
 
 ## Próxima versão
 
