@@ -43,12 +43,12 @@ Biblioteca [Lucide](https://lucide.dev) (licença ISC), contorno de 2 px em grad
 
 Fotos e mockups da marca Ulivo, com regras em [assets.md](assets.md).
 
-## Componentes (16 famílias)
+## Componentes (24 famílias)
 
 | Componente | Variantes e estados | Propriedades editáveis |
 |---|---|---|
-| Botão | Estilo (Primary verde, Secondary contorno, Text, Danger, Inverse creme para fundo escuro) x Estado (Default, Hover, Pressed, Focus, Disabled), 48 px | Rótulo |
-| Botão pequeno | Os mesmos 25, 36 px, para tabelas | Rótulo |
+| Botão | Estilo (Primary verde, Secondary contorno, Text, Danger, Inverse creme para fundo escuro) x Estado (Default, Hover, Pressed, Focus, Disabled), 48 px | Rótulo, Tem ícone, Ícone |
+| Botão pequeno | Os mesmos 25, 36 px, para tabelas | Rótulo, Tem ícone, Ícone |
 | Chip | Selected (On, Off) x Estado (Default, Hover, Disabled) | Rótulo |
 | Status | Tom: Neutro, Sucesso, Alerta, Perigo, Info | Rótulo |
 | Campo | Estado: Default, Focus, Filled, Error, Disabled | Rótulo, Valor, Ajuda |
@@ -63,6 +63,14 @@ Fotos e mockups da marca Ulivo, com regras em [assets.md](assets.md).
 | Diálogo | um, com botão de perigo e botão secundário | Título, Mensagem |
 | Imagem | um | Rótulo |
 | Logo | Fundo: Verde, Creme, Carvão | nenhuma |
+| Ação rápida | um | Rótulo, Ícone |
+| Cabeçalho de seção | um | Título, Link |
+| Card de conteúdo | um, horizontal com foto, etiqueta e botão | Etiqueta, Título, Descrição |
+| Card vertical | um, foto no topo | Título, Detalhe, Ícone |
+| Banner | um, foto escurecida com botão creme | Sobretítulo, Título, Descrição |
+| Item de lista | um, foto + status + seta | Título, Detalhe |
+| Gráfico de barras | um, 7 colunas | Título, Período |
+| Número com variação | um, ícone + valor + comparação | Valor, Rótulo, Variação, Ícone |
 
 ## Como usar
 
@@ -79,4 +87,19 @@ Caixa de seleção, interruptor, calendário e seletor de horário completo. Ent
 
 ## Estilo da alta fidelidade
 
-Inspirado no app da referência Bean & Bloom: muitas fotos e banners, cartões e botões de vidro translúcido sobre as fotos, folhas creme com cantos arredondados no topo, menu inferior flutuante. Cliente em celular, atendente em tablet e gerente em computador, com banner de foto no topo das telas da equipe. As telas ficam na página **Alta fidelidade** do Figma.
+Inspirado no app da referência Bean & Bloom e no painel da referência de dashboard. As telas ficam na página **Alta fidelidade** do Figma. Decisão: [10](../pipeline/decisions/interface/0010-composicao-rica-nas-telas.md).
+
+**Cliente, no celular**
+- A foto do topo **funde com o fundo creme** por um degradê, sem borda nem corte seco. É o que dá o ar de página de venda.
+- Título em serifa grande sobre a área já clara, com uma frase curta embaixo.
+- Cartões e botões de vidro translúcido quando ficam sobre a foto.
+- Conteúdo em seções, cada uma com cabeçalho e atalho "Ver tudo": atalhos com ícone, grade de ambientes, card de prato e banner de evento.
+- Menu flutuante com 4 abas: Início, Reservar, Minhas reservas e Perfil.
+
+**Equipe, no tablet e no computador**
+- Menu lateral com ícone em cada item e o item ativo em verde.
+- Banner de foto no topo com o botão principal em creme.
+- Linha de indicadores com ícone, valor grande e comparação com o período anterior.
+- Gráfico de barras, barras de proporção e tabelas com ícone e duas linhas por célula.
+
+**Regra dos ícones:** todo botão de ação, item de menu e linha de tabela leva um ícone que ajuda a reconhecer a ação. Ícone sem rótulo só em botão redondo de vidro (voltar, buscar, notificação).

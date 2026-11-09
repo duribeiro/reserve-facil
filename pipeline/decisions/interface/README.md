@@ -10,3 +10,4 @@ _Tabela gerada pelo índice. Não editar à mão._
 | [7](0007-design-system-com-variaveis-e-dois-modos.md) | Design system com variáveis e dois modos | em vigor | 2026-11-08 |
 | [8](0008-laranja-so-destaque-botao-principal-verde.md) | Laranja só destaque, botão principal verde | em vigor | 2026-11-08 |
 | [9](0009-alta-fidelidade-com-vidro-e-fotos.md) | Alta fidelidade com vidro e fotos | em vigor | 2026-11-08 |
+| [10](0010-composicao-rica-nas-telas.md) | Composição rica nas telas | em vigor | 2026-11-08 |
