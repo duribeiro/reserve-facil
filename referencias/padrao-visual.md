@@ -15,14 +15,14 @@ Marca fictícia **Ulivo** (restaurante que usa o ReserveFácil neste protótipo)
 
 ## Cores
 
-Trio da marca: verde, bege e laranja. O carvão serve só para texto e contraste máximo.
+Trio da marca: creme, verde e laranja, na combinação medida nas referências do café ([decisão 12](../pipeline/decisions/interface/0012-creme-e-verde-medidos-na-referencia-do-cafe.md)).
 
 | Cor | Código | Uso |
 |---|---|---|
-| Verde floresta | `#10261F` | Cards e painéis, em degradê (cerca de 30% da tela) |
-| Creme (bege) | `#EFE6D8` | Texto e botão principal (cerca de 15%) |
-| Terracota (laranja) | `#D9622B` | Só destaque (cerca de 5%): símbolo, links, foco, ícones |
-| Carvão | `#14110F` | Fundo das telas (cerca de 50%) |
+| Creme | `#F4ECE2` | Fundo das telas. Cartão `#FBF6EF`, bloco suave `#EFE6D8` (cerca de 65%) |
+| Verde floresta | `#1F3226` | Blocos em destaque, botão principal e menu lateral (cerca de 30%) |
+| Terracota (laranja) | `#D9622B` | Só destaque (cerca de 5%): símbolo, links, etiquetas |
+| Verde quase preto | `#16251C` | Texto |
 
 ## Tipografia
 
@@ -35,7 +35,7 @@ Só duas fontes neste projeto.
 
 ## Painel (telas da equipe)
 
-Duas referências de painel escuro, guardadas na página Referencias do Figma, definem a composição das telas de atendente e gerente. A segunda (Vision UI) é a principal: fundo escuro, cards em degradê com borda fina, gráfico de área com degradê, indicadores com ícone e variação, tabela sem linhas pesadas e menu lateral com ícone em caixinha. As cores da referência foram ignoradas; valem as da marca Ulivo.
+A referência Vision UI define a composição: indicadores com ícone e variação, gráfico de área com degradê, tabela sem linhas pesadas e menu lateral com ícone. As cores são as da marca Ulivo: fundo creme, menu lateral verde e item ativo creme.
 
 ## Marca
 

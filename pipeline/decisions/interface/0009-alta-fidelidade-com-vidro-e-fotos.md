@@ -6,7 +6,7 @@ estado: em-vigor
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2]
 substitui: []
 substituida_por: []
-relacionadas: [7, 10]
+relacionadas: [7, 10, 12]
 ---
 
 # 9. Alta fidelidade com vidro e fotos

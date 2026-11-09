@@ -8,6 +8,10 @@ Método unificado de 7 prompts de entrevista de produto e 10 etapas de engenhari
 | 2. Jornadas | [02-journeys](02-journeys/README.md) | time |
 | 3. Funcionalidades e corte do MVP | [03-mvp-scope](03-mvp-scope/README.md) | time |
 | 4. Wireframe da jornada | [04-wireframe](04-wireframe/README.md) | dono aprova |
+| 4b. Referências visuais | [04b-visual-references](04b-visual-references/README.md) | agente; dono opina |
+| 4c. Amostras visuais | [04c-visual-samples](04c-visual-samples/README.md) | dono escolhe |
+| 4d. Design system | [04d-design-system](04d-design-system/README.md) | dono aprova |
+| 4e. Alta fidelidade | [04e-high-fidelity](04e-high-fidelity/README.md) | dono aprova por jornada |
 | 5. Requisitos tirados da tela | [05-requirements](05-requirements/README.md) | time, dono aprova a lista |
 | 6. Arquitetura, dados e qualidade | [06-architecture](06-architecture/README.md) | dono escolhe hospedagem e banco |
 | 7. Construção controlada | [07-build](07-build/README.md) | time; dono avalia o resultado |
@@ -44,4 +48,4 @@ O estado de cada etapa e o próximo passo ficam em [STATE.md](STATE.md).
 - **Filtro contra excesso:** toda peça nova passa por "a primeira versão para sem isso?". Se não para, fica para depois.
 - **Etapa reprovada não volta de coluna:** o card ganha tarefas de correção dentro dele.
 - **A esteira decide o quê e por quê.** O OpenSpec (`openspec/changes/`) guarda o como e o trabalho em aberto. Etapa que vira código abre mudança no OpenSpec.
-- **Decisão só se grava depois de o dono decidir**, no formato da skill `adr`, em [decisoes](decisoes/README.md).
+- **Decisão só se grava depois de o dono decidir**, no formato da skill `adr`, em [decisoes](decisions/README.md).

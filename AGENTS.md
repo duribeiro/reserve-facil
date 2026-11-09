@@ -2,7 +2,7 @@
 
 Sistema de reserva de mesas para restaurantes: o cliente reserva, o atendente acompanha o dia e o gerente configura.
 
-**Estado de hoje:** projeto recém-criado a partir do modelo `project-template`. Nada decidido ainda. A próxima ação está em `pipeline/STATE.md`.
+**Estado de hoje:** alta fidelidade e apresentação aprovadas. O sistema não será construído nesta versão. A próxima ação está em `pipeline/STATE.md`.
 
 Trabalho em aberto vive no OpenSpec (`openspec/changes/`). Este arquivo só diz como se trabalha aqui.
 
