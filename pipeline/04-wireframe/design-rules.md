@@ -24,3 +24,4 @@ Valem para o wireframe e a alta fidelidade. A marca está em [padrao-visual.md](
 - Cores: verde floresta (fundo), creme (superfícies), terracota (destaque) e carvão (texto).
 - Fontes: Cormorant Garamond para títulos e marca, DM Sans para o resto.
 - Verde escuro e carvão dominam, creme é a superfície clara. Terracota só como destaque (cerca de 5%): símbolo, links, foco e detalhes. Botão principal é verde ([decisão 8](../decisions/interface/0008-laranja-so-destaque-botao-principal-verde.md)).
+- Estilo: fotos e banners, vidro translúcido sobre fotos, folhas creme de cantos arredondados no topo e menu inferior flutuante ([decisão 9](../decisions/interface/0009-alta-fidelidade-com-vidro-e-fotos.md)).
