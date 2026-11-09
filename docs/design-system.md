@@ -6,12 +6,12 @@ Aplicado ao restaurante fictício Ulivo. Fica no Figma, na página **Design Syst
 
 Nenhuma tela usa cor, fonte, espaçamento ou raio solto. Tudo vem de uma variável ou de um estilo desta página, e todo elemento repetido é uma instância de componente. Trocar o valor na variável muda o sistema inteiro.
 
-## Variáveis (99)
+## Variáveis (105)
 
 | Coleção | O que tem | Modos |
 |---|---|---|
 | Primitives | 40 cores brutas: verde, terracota, creme, carvão, cinza e cores de aviso. Não se usam nas telas | Valor |
-| Color | 35 cores semânticas: `bg/`, `text/`, `border/`, `feedback/`. É o que as telas usam | **Ulivo** (alta fidelidade) e **Wireframe** (cinzas) |
+| Color | 41 cores semânticas: `bg/`, `text/`, `border/`, `feedback/`. É o que as telas usam. `bg/brand` (verde) é a cor da ação principal; `bg/inverse` (carvão) e `text/on-inverse` servem a fundos escuros; `bg/accent` (terracota) é só destaque | **Ulivo** (alta fidelidade) e **Wireframe** (cinzas) |
 | Spacing | 12 passos em pixels: `space/2` até `space/64` | Valor |
 | Radius | 6 raios: `radius/none` até `radius/xl` e `radius/full` | Valor |
 | Size | 6 tamanhos: altura de controle (`size/control/sm`, `md`, `lg`) e ícones (`size/icon/sm`, `md`, `lg`) | Valor |
@@ -35,12 +35,12 @@ Só duas fontes no arquivo: Cormorant Garamond e DM Sans.
 
 Sombra sm, md e lg, e Foco anel (contorno terracota usado em campo e botão com foco).
 
-## Componentes (16 famílias, 79 variantes)
+## Componentes (16 famílias, 89 variantes)
 
 | Componente | Variantes e estados | Propriedades editáveis |
 |---|---|---|
-| Botão | Estilo (Primary, Secondary, Text, Danger) x Estado (Default, Hover, Pressed, Focus, Disabled), 48 px | Rótulo |
-| Botão pequeno | Os mesmos 20, 36 px, para tabelas | Rótulo |
+| Botão | Estilo (Primary verde, Secondary contorno, Text, Danger, Inverse creme para fundo escuro) x Estado (Default, Hover, Pressed, Focus, Disabled), 48 px | Rótulo |
+| Botão pequeno | Os mesmos 25, 36 px, para tabelas | Rótulo |
 | Chip | Selected (On, Off) x Estado (Default, Hover, Disabled) | Rótulo |
 | Status | Tom: Neutro, Sucesso, Alerta, Perigo, Info | Rótulo |
 | Campo | Estado: Default, Focus, Filled, Error, Disabled | Rótulo, Valor, Ajuda |
@@ -59,7 +59,8 @@ Sombra sm, md e lg, e Foco anel (contorno terracota usado em campo e botão com 
 ## Como usar
 
 - Monte telas só com instâncias. Se faltar uma peça, crie o componente aqui antes de usá-la.
-- Terracota só em ação principal, símbolo e link. Uma ação principal por tela.
+- Verde escuro e carvão dominam a tela, creme é a superfície clara. Terracota é só destaque, cerca de 5% da tela: símbolo, link, anel de foco e detalhes pequenos. Nunca em botão principal ([decisão 8](../pipeline/decisions/interface/0008-laranja-so-destaque-botao-principal-verde.md)).
+- Uma ação principal por tela, em botão verde. Sobre fundo escuro, use o botão Inverse.
 - Botão de perigo só para desfazer algo (cancelar reserva).
 - Campo mostra o texto de ajuda apenas no erro ou quando preenchido.
 - Para ver o wireframe com as mesmas peças, troque o modo da moldura para Wireframe.

@@ -6,12 +6,12 @@ estado: em-vigor
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2]
 substitui: []
 substituida_por: []
-relacionadas: [1]
+relacionadas: [1, 8]
 ---
 
 # 7. Design system com variáveis e dois modos
 
-**Estado:** em vigor. Relacionada à [1](0001-marca-ulivo-cores-e-fontes.md).
+**Estado:** em vigor. Relacionada à [1](0001-marca-ulivo-cores-e-fontes.md) e à [8](0008-laranja-so-destaque-botao-principal-verde.md).
 
 **Links:** [Página Design System no Figma](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2)
 

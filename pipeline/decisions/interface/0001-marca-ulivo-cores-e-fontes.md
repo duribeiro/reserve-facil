@@ -6,12 +6,12 @@ estado: em-vigor
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=12-2]
 substitui: []
 substituida_por: []
-relacionadas: [2, 7]
+relacionadas: [2, 7, 8]
 ---
 
 # 1. Marca Ulivo, 4 cores e 2 fontes
 
-**Estado:** em vigor. Relacionada à [2](../produto/0002-saas-reservafacil-prototipo-para-o-ulivo.md) e à [7](0007-design-system-com-variaveis-e-dois-modos.md).
+**Estado:** em vigor. Relacionada à [2](../produto/0002-saas-reservafacil-prototipo-para-o-ulivo.md) à [7](0007-design-system-com-variaveis-e-dois-modos.md) e à [8](0008-laranja-so-destaque-botao-principal-verde.md).
 
 **Links:** [Marca Ulivo no Figma](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=12-2)
 
