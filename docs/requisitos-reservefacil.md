@@ -22,7 +22,15 @@ O ReserveFácil é um sistema para organizar as reservas de mesas em restaurante
 
 ## 3. Diagrama de casos de uso (descrito em texto)
 
-O diagrama original agrupa os casos de uso por ator.
+O PDF traz duas versões do diagrama de casos de uso. A primeira agrupa por área do sistema (Cliente, Notificações, Atendimento, Gestão do restaurante):
+
+![Diagrama de casos de uso agrupado por área](img/diagrama-casos-de-uso-por-grupo.jpg)
+
+A segunda mostra cada ator ligado aos seus casos de uso:
+
+![Diagrama de casos de uso por ator](img/diagrama-casos-de-uso-por-ator.jpg)
+
+A tabela abaixo resume os dois diagramas.
 
 | Ator | Casos de uso |
 |---|---|

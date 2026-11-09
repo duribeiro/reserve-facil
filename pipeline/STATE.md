@@ -2,15 +2,15 @@
 
 Leia antes de qualquer tarefa. Atualize ao fim de cada sessão.
 
-**Onde parou:** projeto recém-criado a partir do modelo. Nenhuma etapa começou.
+**Onde parou:** etapa 1 aprovada pelo dono em [vision.md](01-problem-and-vision/vision.md); etapa 2 aprovada em [journeys.md](02-journeys/journeys.md). Marca Ulivo definida ([decisão 1](decisions/interface/0001-marca-ulivo-cores-e-fontes.md)).
 
-**Próximo passo:** etapa 1, `pipeline/01-problem-and-vision/prompt.md`. Antes, rode `scripts/init-project.sh` e `scripts/configure-github.sh` se ainda não rodou.
+**Próximo passo:** etapa 3: [features.md](03-mvp-scope/features.md) aprovada, falta o corte (Agora, Depois, Nunca).
 
 | Etapa | Estado | Data |
 |---|---|---|
-| 1. Problema e visão | aguardando | |
-| 2. Jornadas | aguardando | |
-| 3. Corte do MVP | aguardando | |
+| 1. Problema e visão | aprovada | 2026-11-08 |
+| 2. Jornadas | aprovada | 2026-11-08 |
+| 3. Corte do MVP | em andamento | 2026-11-08 |
 | 4. Wireframe | aguardando | |
 | 5. Requisitos | aguardando | |
 | 6. Arquitetura | aguardando | |
@@ -18,4 +18,4 @@ Leia antes de qualquer tarefa. Atualize ao fim de cada sessão.
 | 8. Testes | aguardando | |
 | 9. Entrega | aguardando | |
 
-**Decisões em vigor:** nenhuma. **Pendências do dono:** nenhuma.
+**Decisões em vigor:** [1](decisions/interface/0001-marca-ulivo-cores-e-fontes.md), [2](decisions/produto/0002-saas-reservafacil-prototipo-para-o-ulivo.md), [3](decisions/produto/0003-aviso-ao-cliente-por-whatsapp.md), [4](decisions/processo-de-trabalho/0004-projeto-termina-no-prototipo-de-alta-fidelidade.md). **Pendências do dono:** nenhuma.
