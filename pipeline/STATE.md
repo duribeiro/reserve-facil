@@ -4,18 +4,18 @@ Leia antes de qualquer tarefa. Atualize ao fim de cada sessão.
 
 **Onde parou:** etapa 1 aprovada pelo dono em [vision.md](01-problem-and-vision/vision.md); etapa 2 aprovada em [journeys.md](02-journeys/journeys.md). Marca Ulivo definida ([decisão 1](decisions/interface/0001-marca-ulivo-cores-e-fontes.md)).
 
-**Próximo passo:** etapa 3: [features.md](03-mvp-scope/features.md) aprovada, falta o corte (Agora, Depois, Nunca).
+**Próximo passo:** etapa 4, lista de telas e wireframe no Figma (página Wiirefram). Etapa 3 aprovada em [scope.md](03-mvp-scope/scope.md).
 
 | Etapa | Estado | Data |
 |---|---|---|
 | 1. Problema e visão | aprovada | 2026-11-08 |
 | 2. Jornadas | aprovada | 2026-11-08 |
-| 3. Corte do MVP | em andamento | 2026-11-08 |
-| 4. Wireframe | aguardando | |
+| 3. Corte do MVP | aprovada | 2026-11-08 |
+| 4. Wireframe | em andamento | 2026-11-08 |
 | 5. Requisitos | aguardando | |
 | 6. Arquitetura | aguardando | |
 | 7. Construção | aguardando | |
 | 8. Testes | aguardando | |
 | 9. Entrega | aguardando | |
 
-**Decisões em vigor:** [1](decisions/interface/0001-marca-ulivo-cores-e-fontes.md), [2](decisions/produto/0002-saas-reservafacil-prototipo-para-o-ulivo.md), [3](decisions/produto/0003-aviso-ao-cliente-por-whatsapp.md), [4](decisions/processo-de-trabalho/0004-projeto-termina-no-prototipo-de-alta-fidelidade.md). **Pendências do dono:** nenhuma.
+**Decisões em vigor:** [1](decisions/interface/0001-marca-ulivo-cores-e-fontes.md), [2](decisions/produto/0002-saas-reservafacil-prototipo-para-o-ulivo.md), [3](decisions/produto/0003-aviso-ao-cliente-por-whatsapp.md), [4](decisions/processo-de-trabalho/0004-projeto-termina-no-prototipo-de-alta-fidelidade.md), [5](decisions/produto/0005-escopo-agora-so-o-que-o-pdf-exige.md). **Pendências do dono:** nenhuma.
