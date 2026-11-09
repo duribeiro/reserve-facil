@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@fission-ai/openspec": "^1.13.2",
-    "@infisical/cli": "^0.43.137",
+    "@infisical/cli": "^0.45.2",
     "oxlint": "^1.85.0"
   }
 }
