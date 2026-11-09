@@ -66,3 +66,4 @@ _Tabela gerada pelo índice. Não editar à mão._
 | [2](produto/0002-saas-reservafacil-prototipo-para-o-ulivo.md) | SaaS ReserveFacil, protótipo para o Ulivo | em vigor | [produto](produto/README.md) | 2026-11-08 |
 | [3](produto/0003-aviso-ao-cliente-por-whatsapp.md) | Aviso ao cliente por WhatsApp | em vigor | [produto](produto/README.md) | 2026-11-08 |
 | [4](processo-de-trabalho/0004-projeto-termina-no-prototipo-de-alta-fidelidade.md) | Projeto termina no protótipo de alta fidelidade | em vigor | [processo-de-trabalho](processo-de-trabalho/README.md) | 2026-11-08 |
+| [5](produto/0005-escopo-agora-so-o-que-o-pdf-exige.md) | Escopo agora só o que o PDF exige | em vigor | [produto](produto/README.md) | 2026-11-08 |
