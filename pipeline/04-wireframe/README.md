@@ -14,3 +14,8 @@
 Alta fidelidade (cores, fontes, imagens) pode ser uma sub-etapa, `04b-alta-fidelidade`, feita por fatia (uma seção ou página por vez) depois do wireframe aprovado.
 
 Regras que valem em toda etapa: [pipeline/README.md](../README.md) e [question-principles.md](../question-principles.md). Decisão tomada aqui vira arquivo em [pipeline/decisions](../decisoes/README.md).
+
+## Andamento
+
+- Desenhos no Figma: [página Wireframe](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=5-26). 16 telas desenhadas em 08/11/2026, aguardando veredito do dono tela a tela.
+- Lista e especificação: [lista-de-telas.md](lista-de-telas.md). Regras de desenho: [design-rules.md](design-rules.md).
