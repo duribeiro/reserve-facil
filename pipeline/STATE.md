@@ -2,14 +2,14 @@
 
 Leia antes de qualquer tarefa. Atualize ao fim de cada sessão.
 
-**Onde parou:** etapa 1 aprovada pelo dono em [vision.md](01-problem-and-vision/vision.md); etapa 2 (jornadas) em rascunho. Marca Ulivo definida (decisão 1).
+**Onde parou:** etapa 1 aprovada pelo dono em [vision.md](01-problem-and-vision/vision.md); etapa 2 aprovada em [journeys.md](02-journeys/journeys.md). Marca Ulivo definida (decisão 1).
 
-**Próximo passo:** dono confirmar as jornadas; etapa 2, `pipeline/02-journeys/prompt.md`.
+**Próximo passo:** etapa 3, `pipeline/03-mvp-scope/prompt.md`.
 
 | Etapa | Estado | Data |
 |---|---|---|
 | 1. Problema e visão | aprovada | 2026-11-08 |
-| 2. Jornadas | aguardando | |
+| 2. Jornadas | aprovada | 2026-11-08 |
 | 3. Corte do MVP | aguardando | |
 | 4. Wireframe | aguardando | |
 | 5. Requisitos | aguardando | |
