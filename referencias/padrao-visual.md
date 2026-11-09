@@ -19,10 +19,10 @@ Trio da marca: verde, bege e laranja. O carvão serve só para texto e contraste
 
 | Cor | Código | Uso |
 |---|---|---|
-| Verde floresta | `#10261F` | Fundo principal, marca e botão principal |
-| Creme (bege) | `#EFE6D8` | Superfícies, cartões e fundo claro |
-| Terracota (laranja) | `#D9622B` | Só destaque (cerca de 5%): símbolo, links, foco. Nunca em botão principal |
-| Carvão | `#14110F` | Texto, fundos escuros e contraste máximo |
+| Verde floresta | `#10261F` | Cards e painéis, em degradê (cerca de 30% da tela) |
+| Creme (bege) | `#EFE6D8` | Texto e botão principal (cerca de 15%) |
+| Terracota (laranja) | `#D9622B` | Só destaque (cerca de 5%): símbolo, links, foco, ícones |
+| Carvão | `#14110F` | Fundo das telas (cerca de 50%) |
 
 ## Tipografia
 
@@ -35,7 +35,7 @@ Só duas fontes neste projeto.
 
 ## Painel (telas da equipe)
 
-Uma referência de painel escuro, guardada na página Referencias do Figma, define a composição das telas de atendente e gerente: muitos ícones, indicadores com variação do período, gráfico de barras e barras de proporção. As cores da referência foram ignoradas; valem as da marca Ulivo.
+Duas referências de painel escuro, guardadas na página Referencias do Figma, definem a composição das telas de atendente e gerente. A segunda (Vision UI) é a principal: fundo escuro, cards em degradê com borda fina, gráfico de área com degradê, indicadores com ícone e variação, tabela sem linhas pesadas e menu lateral com ícone em caixinha. As cores da referência foram ignoradas; valem as da marca Ulivo.
 
 ## Marca
 

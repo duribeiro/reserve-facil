@@ -72,3 +72,4 @@ _Tabela gerada pelo índice. Não editar à mão._
 | [8](interface/0008-laranja-so-destaque-botao-principal-verde.md) | Laranja só destaque, botão principal verde | em vigor | [interface](interface/README.md) | 2026-11-08 |
 | [9](interface/0009-alta-fidelidade-com-vidro-e-fotos.md) | Alta fidelidade com vidro e fotos | em vigor | [interface](interface/README.md) | 2026-11-08 |
 | [10](interface/0010-composicao-rica-nas-telas.md) | Composição rica nas telas | em vigor | [interface](interface/README.md) | 2026-11-08 |
+| [11](interface/0011-tema-escuro-na-alta-fidelidade.md) | Tema escuro na alta fidelidade | em vigor | [interface](interface/README.md) | 2026-11-08 |

@@ -6,12 +6,12 @@ estado: em-vigor
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2]
 substitui: []
 substituida_por: []
-relacionadas: [9]
+relacionadas: [9, 11]
 ---
 
 # 10. Composição rica nas telas
 
-**Estado:** em vigor. Relacionada à [9](0009-alta-fidelidade-com-vidro-e-fotos.md).
+**Estado:** em vigor. Relacionada à [9](0009-alta-fidelidade-com-vidro-e-fotos.md) e à [11](0011-tema-escuro-na-alta-fidelidade.md).
 
 **Links:** [Figma](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2)
 
