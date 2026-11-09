@@ -2,13 +2,13 @@
 
 Leia antes de qualquer tarefa. Atualize ao fim de cada sessão.
 
-**Onde parou:** etapa 1 redigida em [vision.md](01-problem-and-vision/vision.md), aguardando confirmação do dono. Marca Ulivo definida (decisão 1).
+**Onde parou:** etapa 1 aprovada pelo dono em [vision.md](01-problem-and-vision/vision.md); etapa 2 (jornadas) em rascunho. Marca Ulivo definida (decisão 1).
 
-**Próximo passo:** dono confirmar a visão; depois etapa 2, `pipeline/02-journeys/prompt.md`.
+**Próximo passo:** dono confirmar as jornadas; etapa 2, `pipeline/02-journeys/prompt.md`.
 
 | Etapa | Estado | Data |
 |---|---|---|
-| 1. Problema e visão | em revisão | 2026-11-08 |
+| 1. Problema e visão | aprovada | 2026-11-08 |
 | 2. Jornadas | aguardando | |
 | 3. Corte do MVP | aguardando | |
 | 4. Wireframe | aguardando | |

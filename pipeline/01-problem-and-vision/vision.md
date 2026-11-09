@@ -1,6 +1,6 @@
 # Visão
 
-Rascunho da etapa 1. Base: levantamento de requisitos da turma ([docs/requisitos-reservefacil.md](../../docs/requisitos-reservefacil.md)) e as respostas do dono. Sinais de sucesso e riscos são inferência do agente, pendentes de confirmação.
+Etapa 1, aprovada pelo dono em 08/11/2026. Base: levantamento de requisitos da turma ([docs/requisitos-reservefacil.md](../../docs/requisitos-reservefacil.md)) e as respostas do dono. Sinais de sucesso e riscos são inferência do agente, pendentes de confirmação.
 
 ## Visão
 
