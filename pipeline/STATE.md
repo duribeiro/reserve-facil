@@ -4,7 +4,7 @@ Leia antes de qualquer tarefa. Atualize ao fim de cada sessão.
 
 **Onde parou:** etapa 1 aprovada pelo dono em [vision.md](01-problem-and-vision/vision.md); etapa 2 aprovada em [journeys.md](02-journeys/journeys.md). Marca Ulivo definida ([decisão 1](decisions/interface/0001-marca-ulivo-cores-e-fontes.md)).
 
-**Próximo passo:** etapa 4, lista de telas e wireframe no Figma (página Wiirefram). Etapa 3 aprovada em [scope.md](03-mvp-scope/scope.md).
+**Próximo passo:** dono dar o veredito das 16 telas do wireframe; depois design system e alta fidelidade. Etapa 3 aprovada em [scope.md](03-mvp-scope/scope.md).
 
 | Etapa | Estado | Data |
 |---|---|---|
