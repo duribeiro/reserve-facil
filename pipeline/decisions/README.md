@@ -70,3 +70,4 @@ _Tabela gerada pelo índice. Não editar à mão._
 | [6](produto/0006-login-por-perfil-e-regra-de-negocio.md) | Login por perfil é regra de negócio | em vigor | [produto](produto/README.md) | 2026-11-08 |
 | [7](interface/0007-design-system-com-variaveis-e-dois-modos.md) | Design system com variáveis e dois modos | em vigor | [interface](interface/README.md) | 2026-11-08 |
 | [8](interface/0008-laranja-so-destaque-botao-principal-verde.md) | Laranja só destaque, botão principal verde | em vigor | [interface](interface/README.md) | 2026-11-08 |
+| [9](interface/0009-alta-fidelidade-com-vidro-e-fotos.md) | Alta fidelidade com vidro e fotos | em vigor | [interface](interface/README.md) | 2026-11-08 |
