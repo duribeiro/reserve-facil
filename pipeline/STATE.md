@@ -18,4 +18,4 @@ Leia antes de qualquer tarefa. Atualize ao fim de cada sessão.
 | 8. Testes | aguardando | |
 | 9. Entrega | aguardando | |
 
-**Decisões em vigor:** [1](decisions/interface/0001-marca-ulivo-cores-e-fontes.md), [2](decisions/produto/0002-saas-reservafacil-prototipo-para-o-ulivo.md), [3](decisions/produto/0003-aviso-ao-cliente-por-whatsapp.md), [4](decisions/processo-de-trabalho/0004-projeto-termina-no-prototipo-de-alta-fidelidade.md), [5](decisions/produto/0005-escopo-agora-so-o-que-o-pdf-exige.md). **Pendências do dono:** nenhuma.
+**Decisões em vigor:** [1](decisions/interface/0001-marca-ulivo-cores-e-fontes.md), [2](decisions/produto/0002-saas-reservafacil-prototipo-para-o-ulivo.md), [3](decisions/produto/0003-aviso-ao-cliente-por-whatsapp.md), [4](decisions/processo-de-trabalho/0004-projeto-termina-no-prototipo-de-alta-fidelidade.md), [5](decisions/produto/0005-escopo-agora-so-o-que-o-pdf-exige.md), [6](decisions/produto/0006-login-por-perfil-e-regra-de-negocio.md). **Pendências do dono:** nenhuma.
