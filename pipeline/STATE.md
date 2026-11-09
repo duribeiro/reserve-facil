@@ -2,15 +2,15 @@
 
 Leia antes de qualquer tarefa. Atualize ao fim de cada sessão.
 
-**Onde parou:** etapa 1 aprovada pelo dono em [vision.md](01-problem-and-vision/vision.md); etapa 2 aprovada em [journeys.md](02-journeys/journeys.md). Marca Ulivo definida (decisão 1).
+**Onde parou:** etapa 1 aprovada pelo dono em [vision.md](01-problem-and-vision/vision.md); etapa 2 aprovada em [journeys.md](02-journeys/journeys.md). Marca Ulivo definida ([decisão 1](decisions/interface/0001-marca-ulivo-cores-e-fontes.md)).
 
-**Próximo passo:** etapa 3, `pipeline/03-mvp-scope/prompt.md`.
+**Próximo passo:** etapa 3: [features.md](03-mvp-scope/features.md) aprovada, falta o corte (Agora, Depois, Nunca).
 
 | Etapa | Estado | Data |
 |---|---|---|
 | 1. Problema e visão | aprovada | 2026-11-08 |
 | 2. Jornadas | aprovada | 2026-11-08 |
-| 3. Corte do MVP | aguardando | |
+| 3. Corte do MVP | em andamento | 2026-11-08 |
 | 4. Wireframe | aguardando | |
 | 5. Requisitos | aguardando | |
 | 6. Arquitetura | aguardando | |
