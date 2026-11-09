@@ -19,10 +19,10 @@ Trio da marca: verde, bege e laranja. O carvão serve só para texto e contraste
 
 | Cor | Código | Uso |
 |---|---|---|
-| Verde floresta | `#10261F` | Fundo principal e marca |
+| Verde floresta | `#10261F` | Fundo principal, marca e botão principal |
 | Creme (bege) | `#EFE6D8` | Superfícies, cartões e fundo claro |
-| Terracota (laranja) | `#D9622B` | Cor de destaque: botões, símbolo, links |
-| Carvão | `#14110F` | Texto e contraste máximo |
+| Terracota (laranja) | `#D9622B` | Só destaque (cerca de 5%): símbolo, links, foco. Nunca em botão principal |
+| Carvão | `#14110F` | Texto, fundos escuros e contraste máximo |
 
 ## Tipografia
 
