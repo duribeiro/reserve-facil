@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Entra | A amostra escolhida na etapa 4c e a decisão registrada. |
-| Sai | Uma página de design system na ferramenta de desenho, com variáveis e componentes, e `pipeline/04d-design-system/design-system.md` descrevendo cada item. |
+| Sai | Uma página de design system na ferramenta de desenho, com variáveis e componentes, e `docs/design-system.md` descrevendo cada item. |
 | Quem decide | O agente monta. O dono aprova a página. |
 | Roteiro do agente | [prompt.md](prompt.md) |
 

@@ -79,7 +79,7 @@ Regras:
   aplicações. O resultado precisa ser zero.
 - Contraste de texto acima de 4,5 para 1 (3 para 1 em texto grande) e
   alvos de toque de pelo menos 44 pontos. Calcule, não estime.
-- Escreva `pipeline/04d-design-system/design-system.md` com uma linha por
+- Escreva `docs/design-system.md` com uma linha por
   item: nome, valor e quando usar.
 
 Mostre a página ao dono e peça aprovação.
