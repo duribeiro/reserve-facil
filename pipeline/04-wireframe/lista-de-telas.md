@@ -8,7 +8,7 @@ Formatos: cliente em celular (390 x 960), atendente em tablet (1024 x 768), gere
 
 | # | Tela | Para quem | Para que serve |
 |---|---|---|---|
-| 1 | Entrar | cliente | login (pronta da ferramenta) |
+| 1 | Entrar | todos os perfis | login único (pronta da ferramenta); o destino por perfil é regra de negócio, [decisão 6](../decisions/produto/0006-login-por-perfil-e-regra-de-negocio.md) |
 | 2 | Cadastro | cliente | criar conta (pronta da ferramenta) |
 | 3 | Início | cliente | mostra a próxima reserva e leva a reservar |
 | 4 | Buscar mesa | cliente | escolher data, horário e pessoas e ver mesas livres |
@@ -29,7 +29,7 @@ Formatos: cliente em celular (390 x 960), atendente em tablet (1024 x 768), gere
 
 | # | O que aparece | O que acontece ao clicar | Dado que mostra | Dado que recebe | Quando dá errado |
 |---|---|---|---|---|---|
-| 1 | Logo, e-mail, senha, botão Entrar | Entrar leva ao Início; Criar conta leva ao Cadastro | nada | e-mail, senha | "Não foi possível entrar. Confira e tente de novo." |
+| 1 | Logo, e-mail, senha, botão Entrar | Entrar leva ao início do perfil (cliente: Início; atendente: Reservas do dia; gerente: Mesas); Criar conta leva ao Cadastro | nada | e-mail, senha | "Não foi possível entrar. Confira e tente de novo." |
 | 2 | Nome, e-mail, telefone (WhatsApp), senha | Criar conta registra e leva ao Início | nada | nome, e-mail, telefone, senha | mensagem abaixo do campo inválido |
 | 3 | Banner, card da próxima reserva, botão Reservar, menu inferior | Ver detalhes abre a 8; Reservar abre a 4 | próxima reserva do cliente | nada | sem reserva: "Você ainda não tem reservas" |
 | 4 | Data, horários, pessoas, mesas livres | Ver mesas livres consulta; Escolher abre a 5 | mesas livres que cabem as pessoas | data, horário, pessoas | "Não há mesa livre para esse dia, horário e número de pessoas." |
