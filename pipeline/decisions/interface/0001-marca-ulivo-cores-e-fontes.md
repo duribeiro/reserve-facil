@@ -6,7 +6,7 @@ estado: em-vigor
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=12-2]
 substitui: []
 substituida_por: []
-relacionadas: [2, 7, 8]
+relacionadas: [2, 7, 8, 12]
 ---
 
 # 1. Marca Ulivo, 4 cores e 2 fontes

@@ -6,7 +6,7 @@ estado: em-vigor
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2]
 substitui: []
 substituida_por: []
-relacionadas: [9, 11]
+relacionadas: [9, 11, 12]
 ---
 
 # 10. Composição rica nas telas

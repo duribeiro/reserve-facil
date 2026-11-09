@@ -5,13 +5,15 @@ Fotos e mockups do restaurante fictício Ulivo, na seção **Assets** da página
 ## Regras
 
 - **Origem:** geradas no Google Flow com o modelo Nano Banana 2.1 (custo 0 crédito). São imagens de IA para o protótipo. Em produção, troque por fotos reais do restaurante.
-- **Prompt em inglês**, sempre com a paleta: verde floresta, carvão, creme, âmbar quente e só um toque de terracota.
+- **Prompt em inglês**, sempre com luz do dia e a paleta: creme, bege, carvalho claro, verde floresta e só um toque de terracota. As fotos noturnas ficaram só como arquivo ([decisão 12](../pipeline/decisions/interface/0012-creme-e-verde-medidos-na-referencia-do-cafe.md)).
 - **Sem texto e sem logo dentro da imagem.** Logo e textos entram pelos componentes.
 - **Proporções:** 16:9 para banner, 3:4 para retrato e mockup, 1:1 para prato e cartão.
 - **Nome da camada:** `foto/assunto` ou `mockup/assunto`, minúsculas e sem acento.
-- **Uso nas telas:** a foto entra como preenchimento de um quadro, com degradê carvão por baixo quando há texto por cima.
+- **Uso nas telas:** a foto entra como preenchimento de um quadro. No topo da tela, funde com o creme. Em bloco verde, funde com o verde.
 
-## Imagens (10)
+## Imagens (18)
+
+As 8 mais novas, de dia, são as usadas nas telas: `foto/hero-dia`, `foto/salao-dia`, `foto/bar-dia`, `foto/varanda-dia`, `foto/massa-dia`, `foto/sobremesa-dia`, `foto/vinho-dia` e `foto/fachada-dia`. A tabela abaixo lista as 10 originais, noturnas.
 
 | Camada | Proporção | Assunto | Usada em |
 |---|---|---|---|
@@ -32,7 +34,7 @@ Use o servidor MCP do Flow, projeto Ulivo, coleção assets, `custo_max` 0 e cha
 
 ```text
 <enquadramento>, <sujeito em um restaurante italiano elegante>, <luz>, shallow depth of field.
-Palette of forest green, charcoal, cream and a touch of terracotta. No text, no logos.
+Bright natural daylight. Palette of cream, beige, warm oak and forest green with a touch of terracotta. No text, no logos.
 ```
 
 O Flow recusou 2 de 10 pedidos feitos em lote ("atividade incomum"). Pedir de novo, com chave nova, funcionou.

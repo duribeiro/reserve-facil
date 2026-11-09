@@ -6,7 +6,7 @@ estado: em-vigor
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2]
 substitui: []
 substituida_por: []
-relacionadas: [1, 7, 11]
+relacionadas: [1, 7, 11, 12, 13]
 ---
 
 # 8. Laranja só destaque, botão principal verde

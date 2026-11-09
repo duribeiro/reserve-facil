@@ -2,16 +2,16 @@
 numero: 11
 titulo: Tema escuro na alta fidelidade
 data: 2026-11-08
-estado: em-vigor
+estado: substituida
 links: [https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2]
 substitui: []
-substituida_por: []
+substituida_por: [12]
 relacionadas: [8, 10]
 ---
 
 # 11. Tema escuro na alta fidelidade
 
-**Estado:** em vigor. Relacionada à [8](0008-laranja-so-destaque-botao-principal-verde.md) e à [10](0010-composicao-rica-nas-telas.md).
+**Estado:** substituída pela [12](0012-creme-e-verde-medidos-na-referencia-do-cafe.md) em 08/11/2026: o dono achou as telas escuras e monocromáticas. Relacionada à [8](0008-laranja-so-destaque-botao-principal-verde.md) e à [10](0010-composicao-rica-nas-telas.md).
 
 **Links:** [Figma](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=22-2)
 

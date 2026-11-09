@@ -6,7 +6,7 @@ estado: em-vigor
 links: []
 substitui: []
 substituida_por: []
-relacionadas: []
+relacionadas: [14]
 ---
 
 # 4. Projeto termina no protótipo de alta fidelidade

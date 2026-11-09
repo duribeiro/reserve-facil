@@ -11,11 +11,11 @@
 
 **Critério de aceite:** todas as telas têm especificação, desenho e veredito aprovado do dono.
 
-Alta fidelidade (cores, fontes, imagens) pode ser uma sub-etapa, `04b-alta-fidelidade`, feita por fatia (uma seção ou página por vez) depois do wireframe aprovado.
+Depois do wireframe aprovado, a parte visual segue quatro sub-etapas: [4b referências](../04b-visual-references/README.md), [4c amostras](../04c-visual-samples/README.md), [4d design system](../04d-design-system/README.md) e [4e alta fidelidade](../04e-high-fidelity/README.md). A [régua medida](../04b-visual-references/regua.md) confere todas elas.
 
-Regras que valem em toda etapa: [pipeline/README.md](../README.md) e [question-principles.md](../question-principles.md). Decisão tomada aqui vira arquivo em [pipeline/decisions](../decisoes/README.md).
+Regras que valem em toda etapa: [pipeline/README.md](../README.md) e [question-principles.md](../question-principles.md). Decisão tomada aqui vira arquivo em [pipeline/decisions](../decisions/README.md).
 
 ## Andamento
 
-- Desenhos no Figma: [página Wireframe](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=5-26). 16 telas desenhadas em 08/11/2026, aguardando veredito do dono tela a tela.
+- Desenhos no Figma: [página Wireframe](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=5-26). 16 telas desenhadas em 08/11/2026 e aprovadas pelo dono. A alta fidelidade tem 17 telas, aprovadas em 09/11/2026 ([decisão 13](../decisions/interface/0013-alta-fidelidade-aprovada-destaque-verde.md)).
 - Lista e especificação: [lista-de-telas.md](lista-de-telas.md). Regras de desenho: [design-rules.md](design-rules.md).
