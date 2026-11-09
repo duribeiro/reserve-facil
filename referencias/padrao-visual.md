@@ -7,7 +7,7 @@ Marca fictícia **Ulivo** (restaurante que usa o ReserveFácil neste protótipo)
 | Referência | O que agrada |
 |---|---|
 | Luma | Composição visual, fotos do restaurante e mockups aplicados |
-| Bean & Bloom | Estilo de aplicativo: cards, botões, banners, ícones e a combinação verde com bege |
+| Bean & Bloom | Estilo de aplicativo: foto que funde com o fundo, cards com foto e etiqueta, atalhos com ícone, banners e a combinação verde com bege. É a base da composição das telas do cliente |
 | Beano's Coffee | Embalagens em verde profundo com detalhes finos |
 | L'Atelier | Base da marca: serifa elegante, ramo fino, rótulo em caixa alta espaçada |
 | Sparrow Table | O laranja que destaca a marca |
@@ -32,6 +32,10 @@ Só duas fontes neste projeto.
 |---|---|
 | Títulos e marca | Cormorant Garamond |
 | Textos, botões e formulários | DM Sans |
+
+## Painel (telas da equipe)
+
+Uma referência de painel escuro, guardada na página Referencias do Figma, define a composição das telas de atendente e gerente: muitos ícones, indicadores com variação do período, gráfico de barras e barras de proporção. As cores da referência foram ignoradas; valem as da marca Ulivo.
 
 ## Marca
 

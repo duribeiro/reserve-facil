@@ -2,7 +2,7 @@
 
 Etapa 4, partes A e B. Lista aprovada pelo dono em 08/11/2026. Desenhos no Figma, página Wireframe: [Wireframe](https://www.figma.com/design/HXJrsNhPSf2iC8GyJBqwi2/ReserveFacil?node-id=5-26). Escopo: [scope.md](../03-mvp-scope/scope.md). Cada tela tem uma nota amarela no desenho com os erros e estados vazios.
 
-Formatos: cliente em celular (390 x 960), atendente em tablet (1024 x 768), gerente em computador (1440 x 900).
+Formatos: cliente em celular (390 de largura; a altura varia porque a tela rola), atendente em tablet (1024 x 900 e 1024 x 1020) e gerente em computador (1440 x 1000 e 1440 x 1120). A tela 17 entrou na alta fidelidade, junto com a aba Perfil.
 
 ## Lista de telas
 
@@ -24,6 +24,7 @@ Formatos: cliente em celular (390 x 960), atendente em tablet (1024 x 768), gere
 | 14 | Horários e regras | gerente | definir funcionamento e regras |
 | 15 | Usuários | gerente | administrar a equipe |
 | 16 | Relatórios | gerente | ver reservas, chegadas, ausências e cancelamentos |
+| 17 | Perfil | cliente | dados da conta, canal de aviso e sair ([decisão 10](../decisions/interface/0010-composicao-rica-nas-telas.md)) |
 
 ## Especificação (5 pontos por tela)
 
@@ -45,3 +46,4 @@ Formatos: cliente em celular (390 x 960), atendente em tablet (1024 x 768), gere
 | 14 | Tabela de dias e horários, regras (tolerância, antecedência, limite, duração) | Salvar configurações | funcionamento e regras atuais | horários e regras | configuração inválida mostra o campo e não salva |
 | 15 | Tabela da equipe, painel Novo usuário | Editar, Ativar, Desativar, Salvar usuário | usuários da equipe | nome, e-mail, perfil, senha provisória | dado inválido não salva |
 | 16 | Período, 4 números, tabela por dia | escolher o período | totais e dias | período | "Nenhum resultado para esses critérios." |
+| 17 | Avatar, nome, números de visitas e lista de opções | cada linha abre um ajuste; Sair encerra a sessão | dados da conta | nada | sem reservas, os números mostram zero |
